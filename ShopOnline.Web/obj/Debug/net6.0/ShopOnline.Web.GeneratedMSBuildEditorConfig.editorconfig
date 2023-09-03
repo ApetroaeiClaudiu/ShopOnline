@@ -11,45 +11,45 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = ShopOnline.Web
 build_property.RootNamespace = ShopOnline.Web
-build_property.ProjectDir = D:\Projects\C#\Blazor\ShopOnlineSolution\ShopOnline.Web\
+build_property.ProjectDir = d:\Projects\C#\Blazor\ShopOnlineSolution\ShopOnline.Web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Projects\C#\Blazor\ShopOnlineSolution\ShopOnline.Web
+build_property.MSBuildProjectDirectory = d:\Projects\C#\Blazor\ShopOnlineSolution\ShopOnline.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/App.razor]
+[d:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/Pages/Counter.razor]
+[d:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/Pages/FetchData.razor]
+[d:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/Pages/Products.razor]
+[d:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/Pages/Products.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/Shared/SurveyPrompt.razor]
+[d:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/_Imports.razor]
+[d:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/Pages/DisplayProducts.razor]
+[d:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/Pages/DisplayProducts.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheVByb2R1Y3RzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-r631xo10ml
 
-[D:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/Shared/MainLayout.razor]
+[d:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-odzh4mtldn
 
-[D:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/Shared/NavMenu.razor]
+[d:/Projects/C\#/Blazor/ShopOnlineSolution/ShopOnline.Web/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-zzqun8vtrk
